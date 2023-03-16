@@ -1,5 +1,30 @@
 {
-  "posts": [
-
+  "posts": [],
+  "user": [
+    {
+      "name": "priyanshu",
+      "email": "priynahsu@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "priyanshu",
+      "email": "priynahsu@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "hotel": [
+    {
+      "catergory": "family",
+      "image_url": "https://images.pexels.com/photos/10679234/pexels-photo-10679234.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "type_of_room": "nonac",
+      "bed_type": "single",
+      "capacity": "10",
+      "cost": "3000",
+      "no_of_person": "5",
+      "booked": true,
+      "id": 1
+    }
   ]
 }
